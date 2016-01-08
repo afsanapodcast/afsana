@@ -1,0 +1,16 @@
+/* Afsana Podcast CSS by Anindita Basu */
+/* Contains styles not contained in w3.css and w3-theme-dark-grey.css, and style overrides thereto */
+
+.doubleborder {
+    border-width:7px;	
+    border-style:ridge;
+	border-color:#B45F04;
+}
+
+.border {
+	border-color:#FFA500;
+    border-width:2px;	
+    border-style:solid;
+}
+
+.authorcard{ width:150px; height:120px; float:left; background:#FFFFFF; border-color:#FFA500; border-width:2px;	border-style:solid;}
