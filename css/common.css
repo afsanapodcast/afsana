@@ -1,6 +1,15 @@
 /* Afsana Podcast CSS by Anindita Basu */
 /* Contains styles not contained in w3.css and w3-theme-dark-grey.css, and style overrides thereto */
 
+p, li {
+	line-height: 190%;
+	padding-left: 5px;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+	font-family: Bookman Old Style, Palatino Linotype, Georgia, Serif;
+	}
+
 .doubleborder {
     border-width:7px;	
     border-style:ridge;
