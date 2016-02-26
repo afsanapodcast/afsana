@@ -22,7 +22,33 @@
 
 <p><img src = "../images/ic_radio_white_18dp_2x.png" /> &nbsp;&nbsp;Afsana Podcast &nbsp;&nbsp;கதை&nbsp;&nbsp;कहानी&nbsp;&nbsp;ಕಥೆ&nbsp;&nbsp;গল্প&nbsp;&nbsp;కథ&nbsp;&nbsp;गोष्ट&nbsp;&nbsp;काणी&nbsp;&nbsp;કથા&nbsp;&nbsp;कहाणी&nbsp;&nbsp;افسانہ&nbsp;&nbsp;</p>
 
-<p>Podcasts of Indian language stories</p>
+<p class = "w3-right w3-dropdown-click">
+<button onclick="myAuthFunction()" class = "w3-btn w3-round-jumbo w3-white border">Authors</button>
+	<span id = "authors" class="w3-dropdown-content w3-card-2" style="width:175px">
+      <a href="author_ab.html">Anindita Basu</a>
+      <a href="author_pk.html">Preran Kumar</a>
+      <a href="author_rr.html">Ruchi Rana</a>
+	  <a href="author_rs.html">Rahul Shabd</a>
+	  <a href="author_ss.html">Shishir Somvanshi</a>
+    </span>
+&nbsp;&nbsp;<button onclick="myLangFunction()" class = "w3-btn w3-round-jumbo w3-white border">Languages</button>
+	<span id = "languages" class="w3-dropdown-content w3-card-2" style="width:175px">
+	  <a href="language_hindi.html">Hindi</a>
+	  <a href="author_anon.html">Life</a>
+    </span>
+</p>
+
+<script>
+function myAuthFunction() {
+    document.getElementById("authors").classList.toggle("w3-show");
+}
+</script>
+
+<script>
+function myLangFunction() {
+    document.getElementById("languages").classList.toggle("w3-show");
+}
+</script>
 
 </div>
 
