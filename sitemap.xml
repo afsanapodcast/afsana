@@ -26,6 +26,14 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>http://afsanapodcast.github.io/afsana/html/author_sr.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://afsanapodcast.github.io/afsana/html/author_mk.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>http://afsanapodcast.github.io/afsana/html/author_anon.html</loc>
     <changefreq>weekly</changefreq>
   </url>
