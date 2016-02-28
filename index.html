@@ -24,8 +24,25 @@
 
 <header>
 <h1>Afsana Podcast</h1>
-<p class = "w3-small w3-right-align"><a href = "https://twitter.com/intent/tweet?text=Audio%20stories%20in%20Indian%20languages%20written%20and%20narrated%20by%20non-famous%20Indians%20@afsanaPodcast;url=http%3A%2F%2Fbit.ly%2F1Og8ppA" class = "w3-btn w3-round-jumbo w3-white border" target = "_blank">Tweet</a>  <a href = "http://www.twitter.com/afsanaPodcast" class = "w3-btn w3-round-jumbo w3-white border" target = "_blank">Follow</a></p>
+<p class = "w3-small w3-right-align">
+<a href = "https://twitter.com/intent/tweet?text=Audio%20stories%20in%20Indian%20languages%20written%20and%20narrated%20by%20non-famous%20Indians%20@afsanaPodcast;url=http%3A%2F%2Fbit.ly%2F1Og8ppA" class = "w3-btn w3-round-jumbo w3-white border" target = "_blank">Tweet</a>  
+<a href = "http://www.twitter.com/afsanaPodcast" class = "w3-btn w3-round-jumbo w3-white border" target = "_blank">Follow</a>  
+<span class = "w3-dropdown-click">
+<button onclick="myContrFunction()" class = "w3-btn w3-round-jumbo w3-white border">Contribute</button>
+	<span id = "contribute" class="w3-dropdown-content w3-card-2 w3-round-large w3-text-grey" style="width:175px">
+      <a href="./html/instructions.html">Audio stories</a>
+      <a href="./html/instructions_quickBytes.html">Quick bytes</a>
+    </span>
+</span>
+<a href = "#subscribe" class = "w3-btn w3-round-jumbo w3-white border">Subscribe</a>
+</p>
 </header>
+
+<script>
+function myContrFunction() {
+    document.getElementById("contribute").classList.toggle("w3-show");
+}
+</script>
 
 <hr/>
 
@@ -127,7 +144,7 @@
     <div class="w3-modal-content w3-card-4">
       <header class="w3-container w3-theme-l4"> 
         <a href="#" class="w3-closebtn w3-text-grey">&times;</a>
-        <h5 class = " w3-text-dark-grey">Acknowledgements</h5>
+        <h4 class = " w3-text-dark-grey">Acknowledgements</h4>
       </header>
       <div class="w3-container">        
 		<p class = "w3-text-grey w3-small">All stories are original works of the authors. The copyright thereof vests with them.</p>
@@ -147,10 +164,29 @@
     <div class="w3-modal-content w3-card-4">
       <header class="w3-container w3-theme-l4"> 
         <a href="#" class="w3-closebtn w3-text-grey">&times;</a>
-        <h5 class = " w3-text-dark-grey">Contact</h5>
+        <h4 class = " w3-text-dark-grey">Contact</h4>
       </header>
       <div class="w3-container">        
 		<p class = "w3-text-grey w3-small">Drop a mail to afsana.podcast@gmail.com.</p>
+      </div>
+      <footer class="w3-container w3-theme-l4">
+        <p>&nbsp;</p>
+      </footer>
+    </div>
+  </div>
+</div>
+
+<div id = "subscribe" class="w3-modal">
+  <div class="w3-modal-dialog">
+    <div class="w3-modal-content w3-card-4">
+      <header class="w3-container w3-theme-l4"> 
+        <a href="#" class="w3-closebtn w3-text-grey">&times;</a>
+        <h4 class = " w3-text-dark-grey">Subscribe</h4>
+      </header>
+      <div class="w3-container">        
+		<p class = "w3-text-grey w3-small">To be notified whenever we upload a story or a Quick Byte to the website, send an email to afsana.podcast@gmail.com with "Subscribe" in the subject line, like shown in this picture:</p>
+		<img src = "./images/subscribe.PNG" class = "imgborder"/>
+		<p class = "w3-text-grey w3-small">We will never share your email ID with anybody and never spam you. At any time, you can ask to be removed from the mailing list.</p>
       </div>
       <footer class="w3-container w3-theme-l4">
         <p>&nbsp;</p>

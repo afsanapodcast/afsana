@@ -24,7 +24,7 @@
 
 <div class="w3-row">
 
-<div class = "w3-third">
+<div class = "w3-twothird">
 <p class = "w3-small">
 <a href = "../index.html" class = "w3-btn w3-round-jumbo w3-white border">Home</a>&nbsp;&nbsp;  
 <span class = "w3-dropdown-click">
@@ -42,12 +42,7 @@
 	  <a href="author_anon.html">Life</a>
     </span>
 </span>
-</p>
-</div>
-
-<div class = "w3-twothird">
-<p class = "w3-right w3-small">
-<a href = "http://www.twitter.com/afsanaPodcast" class = "w3-btn w3-round-jumbo w3-white border" target = "_blank">Follow</a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href = "http://www.twitter.com/afsanaPodcast" class = "w3-btn w3-round-jumbo w3-white border" target = "_blank">Follow</a>&nbsp;&nbsp;
 <span class = "w3-dropdown-click">
 <button onclick="myContrFunction()" class = "w3-btn w3-round-jumbo w3-white border">Contribute</button>
 	<span id = "contribute" class="w3-dropdown-content w3-card-2 w3-round-large w3-text-grey" style="width:175px">
@@ -55,6 +50,7 @@
       <a href="instructions_quickBytes.html">Quick bytes</a>
     </span>
 </span>
+<a href = "#subscribe" class = "w3-btn w3-round-jumbo w3-white border">Subscribe</a>
 </p>
 </div>
 
@@ -82,6 +78,26 @@ function myContrFunction() {
 
 </div>
 <hr/>
+
+<div id = "subscribe" class="w3-modal">
+  <div class="w3-modal-dialog">
+    <div class="w3-modal-content w3-card-4">
+      <header class="w3-container w3-theme-l4"> 
+        <a href="#" class="w3-closebtn w3-text-grey">&times;</a>
+        <h4 class = " w3-text-dark-grey">Subscribe</h4>
+      </header>
+      <div class="w3-container">        
+		<p class = "w3-text-grey w3-small">To be notified whenever we upload a story or a Quick Byte to the website, send an email to afsana.podcast@gmail.com with "Subscribe" in the subject line, like shown in this picture:</p>
+		<img src = "../images/subscribe.PNG" class = "imgborder"/>
+		<p class = "w3-text-grey w3-small">We will never share your email ID with anybody and never spam you. At any time, you can ask to be removed from the mailing list.</p>
+      </div>
+      <footer class="w3-container w3-theme-l4">
+        <p>&nbsp;</p>
+      </footer>
+    </div>
+  </div>
+</div>
+
 </body>
 
 </html>
