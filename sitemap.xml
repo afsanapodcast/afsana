@@ -30,7 +30,15 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>http://afsanapodcast.github.io/afsana/html/author_sa.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>http://afsanapodcast.github.io/afsana/html/author_mk.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://afsanapodcast.github.io/afsana/html/author_ap.html</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -39,6 +47,10 @@
   </url>
   <url>
     <loc>http://afsanapodcast.github.io/afsana/html/language_hindi.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://afsanapodcast.github.io/afsana/html/language_kashmiri.html</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
