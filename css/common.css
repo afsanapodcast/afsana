@@ -20,8 +20,8 @@ th, td {
 hr {border-style:solid; border-color:#000;}
 
 audio {
-  width: 100%    !important;
-  height: auto   !important;
+  width: 100%;
+  height: auto;
 } /* to make the player shrink for smaller screens; fluid width */
 
 .doubleborder {
