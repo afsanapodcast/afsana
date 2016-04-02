@@ -2,9 +2,10 @@
 audio stories in Indian languages
 
 ## authors
--  Anindita Basu: bit.ly/1Tfv4bl
 -  Ajay Purohit: bit.ly/1TecX6W
+-  Anindita Basu: bit.ly/1Tfv4bl
 -  Mohd Kausen: bit.ly/1WQOKBz
+-  Prabhakar Pandey: bit.ly/1pTHiuN
 -  Preran Kumar: bit.ly/1Pj7pAU
 -  Ruchi Rana: bit.ly/1RCjTs0
 -  Rahul Shabd: bit.ly/1Qf7Dzr
