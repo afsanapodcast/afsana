@@ -4,6 +4,8 @@ audio stories in Indian languages
 ## authors
 -  Ajay Purohit: bit.ly/1TecX6W
 -  Anindita Basu: bit.ly/1Tfv4bl
+-  Arjo Dasgupta: bit.ly/1TVr00R
+-  Kumudavalli Arun Murthy: bit.ly/1Sbbg58
 -  Mohd Kausen: bit.ly/1WQOKBz
 -  Prabhakar Pandey: bit.ly/1pTHiuN
 -  Preran Kumar: bit.ly/1Pj7pAU
