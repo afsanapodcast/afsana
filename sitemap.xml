@@ -42,6 +42,14 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://afsanapodcast.github.io/afsana/html/author_sp.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://afsanapodcast.github.io/afsana/html/author_sp2.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://afsanapodcast.github.io/afsana/html/author_anon.html</loc>
     <changefreq>weekly</changefreq>
   </url>
@@ -51,6 +59,14 @@
   </url>
   <url>
     <loc>https://afsanapodcast.github.io/afsana/html/language_kashmiri.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://afsanapodcast.github.io/afsana/html/language_kannada.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://afsanapodcast.github.io/afsana/html/language_bengali.html</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
