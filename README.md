@@ -3,6 +3,7 @@ audio stories in Indian languages
 
 ## authors
 -  Ajay Purohit: bit.ly/1TecX6W
+-  Anitha Naresh Manchi: bit.ly/1NgmGrm
 -  Anindita Basu: bit.ly/1Tfv4bl
 -  Arjo Dasgupta: bit.ly/1TVr00R
 -  Himanshu Pandey: bit.ly/22Ev7OZ
