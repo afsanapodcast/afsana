@@ -5,6 +5,7 @@ audio stories in Indian languages
 -  Ajay Purohit: bit.ly/1TecX6W
 -  Anindita Basu: bit.ly/1Tfv4bl
 -  Arjo Dasgupta: bit.ly/1TVr00R
+-  Himanshu Pandey: bit.ly/22Ev7OZ
 -  Kumudavalli Arun Murthy: bit.ly/1Sbbg58
 -  Mohd Kausen: bit.ly/1WQOKBz
 -  Prabhakar Pandey: bit.ly/1pTHiuN
