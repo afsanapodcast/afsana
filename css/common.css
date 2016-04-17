@@ -42,7 +42,7 @@ audio {
     border-style:ridge;
 }
 
-.authorcard{ width:150px; height:150px; float:left; }
+.authorcard{ width:175px; height:150px; float:left; border-top: 1px solid #FFA500;} 
 
 .newtag {display:inline-block;padding-left:8px;padding-right:8px;text-align:left;}
 
