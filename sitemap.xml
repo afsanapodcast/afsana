@@ -49,6 +49,22 @@
     <loc>https://afsanapodcast.github.io/afsana/html/author_sp2.html</loc>
     <changefreq>weekly</changefreq>
   </url>
+   <url>
+    <loc>https://afsanapodcast.github.io/afsana/html/author_pp.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+   <url>
+    <loc>https://afsanapodcast.github.io/afsana/html/author_km.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+   <url>
+    <loc>https://afsanapodcast.github.io/afsana/html/author_hp.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+   <url>
+    <loc>https://afsanapodcast.github.io/afsana/html/author_ad.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
   <url>
     <loc>https://afsanapodcast.github.io/afsana/html/author_anon.html</loc>
     <changefreq>weekly</changefreq>
@@ -67,6 +83,10 @@
   </url>
   <url>
     <loc>https://afsanapodcast.github.io/afsana/html/language_bengali.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://afsanapodcast.github.io/afsana/html/language_bhojpuri.html</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
